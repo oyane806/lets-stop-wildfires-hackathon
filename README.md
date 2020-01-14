@@ -40,7 +40,7 @@ Rules used to build the new dataset:
 ##### To do list
 
 - [x] List all the images we have and label them in a csv file (mapping.csv) -- Oceane
-- [ ] Write in a csv file all the combination of images to build our dataset (see above rules)
+- [x] Write in a csv file all the combination of images to build our dataset (see above rules) -- Oceane
 - [ ] Build our new dataset
 - [ ] Write a function to calculate the difference of two image
 - [ ] Write a script to split a picture into 81 pictures (for production)
