@@ -35,14 +35,17 @@ Rules used to build the new dataset:
 - smoke(t) + smoke(t+1) = smoke
 - no_smoke(t) + smoke_(t+2) = smoke
 
+You can find the new dataset with differences [here](https://drive.google.com/open?id=1qrPpc37hXSDLz8JOZbnTLiMEktxjYHk0)
+
 #### :one: 2 images difference
 
 ##### To do list
 
 - [x] List all the images we have and label them in a csv file (mapping.csv) -- Oceane
-- [x] Write in a csv file all the combination of images to build our dataset (see above rules) -- Oceane
-- [ ] Build our new dataset
-- [ ] Write a function to calculate the difference of two image
+- [x] Write in a csv file all the combination of images to build our dataset (see above rules) -- Oceane Jared
+- [x] Build our new dataset -- Oceane [new dataset](https://drive.google.com/open?id=1qrPpc37hXSDLz8JOZbnTLiMEktxjYHk0)
+- [x] Write a function to calculate the difference of two image -- Oceane
+- [ ] Create a validation set
 - [ ] Write a script to split a picture into 81 pictures (for production)
 
 #### :two: 2 images stacking
